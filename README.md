@@ -17,13 +17,13 @@
 
 ## Contents
 
-- Overview
+- [Overview](#Overview)
     - [What is Codewars?]()
     - [Codewars Ranks]()
-- Solutions
-    - [5 kyu]
-    - [4 kyu]
-    - [3 kyu (soon...)]
+- [Solutions](#Solutions)
+    - [5 kyu](#5kyu)
+    - [4 kyu](#4kyu)
+    - [3 kyu (soon...)](#3kyu)
 
 ## Overview
 
@@ -35,7 +35,7 @@
 ### Codewars Ranks
 
 
-<img align="left" src="https://i.ibb.co/8PXS1Zq/image.png">
+<img align="left" src="https://user-images.githubusercontent.com/115389864/198830532-ecf67561-4859-4212-9670-c6a79ac8c1fc.png">
 
 > from codewars [site](https://www.codewars.com/about#:~:text=8%20kyu-,Kata,46%2C598,-%C2%A9%202022%20Codewars)
 
@@ -57,6 +57,7 @@ You can advance through the ranks by completing kata at or above your rank - the
 
 Honor represents the level of respect a user has earned from the community, based on their skill and contributions. Honor is earned fastest through creating kata, crafting great solutions, and constructive comments.
 
+<br>
 <br>
 
 ## Solutions
