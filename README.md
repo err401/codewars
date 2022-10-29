@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/codewars/branding/master/light-text-logo.png">
 
+![py](https://img.shields.io/badge/python-v3.8-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nitr7gen/codewars?style=flat-square)
 ![license](https://img.shields.io/github/license/nitr7gen/codewars?style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/nitr7gen/codewars?color=green&style=flat-square)
