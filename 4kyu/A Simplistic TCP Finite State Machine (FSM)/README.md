@@ -54,7 +54,7 @@ TIME_WAIT: APP_TIMEOUT   -> CLOSED
 CLOSE_WAIT: APP_CLOSE    -> LAST_ACK
 LAST_ACK: RCV_ACK        -> CLOSED
 ```
-[image will come here]
+![EFSM TCP](https://user-images.githubusercontent.com/115389864/198824262-43131d27-88ff-48d7-bec3-c6d12121ec54.png)
 
 **Examples**
 ```
