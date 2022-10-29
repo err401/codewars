@@ -13,7 +13,7 @@
 >Be honorable. Cheating is discouraged. If you find a way to complete a kata that falls outside the kata itself (notably but not limited to: exploiting Codewars's test framework, website and servers), then refrain from doing so. Violators will be banned for such usage. Codewars has algorithms to detect some forms of cheating but does not attempt to track down every possible way.
 
 *from author*
-> the following solutions are only for your own refference and comparison. If you cheat none the less atleast try and see how the solution works!
+> the following solutions are only for your own refference and comparison. If you choose to cheat regardless of the rules , consider understandign the code before clicking `submit`
 
 ## Contents
 
